@@ -1,1 +1,2 @@
-This is an example in class COSC 224 in lecture 2
+This is a class example done in lecture 2
+
